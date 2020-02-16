@@ -1,0 +1,33 @@
+body {
+    margin:0;
+    padding:0;
+    background:url("image/kobe.gif") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Permanent Marker', cursive;
+}
+
+#main{
+    color: purple;
+    text-align: center;
+    font-size: 30px;
+}
+
+#content{
+    color: yellow;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.link{
+    color: purple;;
+}
+
+#font{
+    color:purple;
+    text-align: center;
+    font-size: 40px;
+}
